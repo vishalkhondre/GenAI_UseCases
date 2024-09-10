@@ -27,6 +27,8 @@ This column highlights the potential ways generative AI can improve task executi
 
 The impact column outlines the benefits of using AI for the identified tasks, such as "Reduced manual effort in summarizing and extracting insights" or "More accurate predictions of user behavior." It emphasizes how AI increases efficiency, improves decision-making, and accelerates the completion of milestones.
 
+![Alt Text] https://github.com/vishalkhondre/GenAI_UseCases/blob/main/SDLC_Stages.png
+
 * **Reference Gen AI Tools:**
 
 This column lists specific AI tools or platforms that can be used to achieve the desired outcomes. Examples include "Otter.ai," "Amplitude," and "MonkeyLearn." These tools serve as practical solutions that can be implemented to realize the benefits of generative AI in the SDLC.
