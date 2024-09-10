@@ -1,6 +1,8 @@
 # GenAI_UseCases
 Generative AI (GenAI) use cases across different stages of the SDLC.
 
+![SDLC Stages](https://github.com/vishalkhondre/GenAI_UseCases/blob/main/SDLC_Stages.png)
+
 # Breakdown of the columns in your Excel sheet:
 
 * **Software Development Lifecycle (SDLC) Stage:**
@@ -30,5 +32,3 @@ The impact column outlines the benefits of using AI for the identified tasks, su
 * **Reference Gen AI Tools:**
 
 This column lists specific AI tools or platforms that can be used to achieve the desired outcomes. Examples include "Otter.ai," "Amplitude," and "MonkeyLearn." These tools serve as practical solutions that can be implemented to realize the benefits of generative AI in the SDLC.
-
-![SDLC Stages](https://github.com/vishalkhondre/GenAI_UseCases/blob/main/SDLC_Stages.png)
