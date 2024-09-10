@@ -3,6 +3,10 @@ Generative AI (GenAI) use cases across different stages of the SDLC.
 
 ![SDLC Stages](https://github.com/vishalkhondre/GenAI_UseCases/blob/main/SDLC_Stages.png)
 
+I've captured and summarized generative AI (GenAI) use cases across different stages of the SDLC in this Excel sheet. This document serves as a starting point to identify key use cases, the tools involved, their impact, and the potential productivity improvements. Additionally, it can be used to track the effort before and after implementing GenAI solutions to quantify productivity gains.
+
+https://github.com/vishalkhondre/GenAI_UseCases/blob/main/SDLC_GenAI_UseCases.xlsx
+
 # Breakdown of the columns in your Excel sheet:
 
 * **Software Development Lifecycle (SDLC) Stage:**
