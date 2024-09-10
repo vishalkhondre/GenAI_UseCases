@@ -32,3 +32,17 @@ The impact column outlines the benefits of using AI for the identified tasks, su
 * **Reference Gen AI Tools:**
 
 This column lists specific AI tools or platforms that can be used to achieve the desired outcomes. Examples include "Otter.ai," "Amplitude," and "MonkeyLearn." These tools serve as practical solutions that can be implemented to realize the benefits of generative AI in the SDLC.
+
+# References:
+* https://www.youtube.com/watch?v=xlbh9Rb82-4
+* https://www.youtube.com/watch?v=A3yhinPzvpU
+* https://www.drawio.com/blog/write-query-generate-diagram
+* https://www.youtube.com/watch?v=vhyDKfv8_Gw
+* https://www.youtube.com/watch?v=VdfZ6OwzZ8g
+* https://www.youtube.com/watch?v=xlbh9Rb82-4
+* https://www.slideserve.com/Benjamin57/ai-assisted-coding-redefining-coding-efficiency-powerpoint-ppt-presentation
+* https://www.slideserve.com/Kevin187/importance-of-generative-ai-in-modern-software-development
+* https://www.slideshare.net/slideshow/generative-ai-the-forcemultiplier-for-sdlcpptx/260095782
+* https://www.slideshare.net/slideshow/understanding-generative-ai-in-software-development/260241721
+* https://www.youtube.com/watch?v=xYxceIDCnaI
+* https://medium.com/@rama.sathish/ai-powered-software-development-life-cycle-1ac599ad38bb
