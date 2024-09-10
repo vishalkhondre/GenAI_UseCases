@@ -3,7 +3,7 @@ Generative AI (GenAI) use cases across different stages of the SDLC.
 
 # Breakdown of the columns in your Excel sheet:
 
-* Software Development Lifecycle (SDLC) Stage:
+* **Software Development Lifecycle (SDLC) Stage:**
 
 This column identifies the stage in the SDLC where generative AI can be applied, such as "Analyze," "Design," "Build," etc. Each stage represents a critical phase in the software creation process, from initial discovery to deployment and maintenance.
 
