@@ -7,7 +7,7 @@ I've captured and summarized generative AI (GenAI) use cases across different st
 
 https://github.com/vishalkhondre/GenAI_UseCases/blob/main/SDLC_GenAI_UseCases.xlsx
 
-# Breakdown of the columns in your Excel sheet:
+# Breakdown of the columns in the Excel sheet:
 
 * **Software Development Lifecycle (SDLC) Stage:**
 
